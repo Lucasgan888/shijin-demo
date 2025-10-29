@@ -1,0 +1,9 @@
+{
+    "window.commandCenter": true,
+    "workbench.colorTheme": "Cursor Dark Midnight",
+    "claude-code.environmentVariables": [
+      "ANTHROPIC_AUTH_TOKEN=sk-xInKhT4ygqX9Zb6bRxmV2Wom7kzqDBtP6dVuwMsoBc01G1Sh",
+      "ANTHROPIC_BASE_URL=https://anyrouter.top"
+    ]
+  }
+  
